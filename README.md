@@ -36,6 +36,10 @@
         <td><a href="https://www.quora.com/profile/Nazmus-Sakib-1256">Quora</a></td>
         <td><a href="https://www.reddit.com/user/BeyondAlgorithm/">Reddit</a></td>
     </tr>
+    <tr>
+     <td><a href="https://learn.microsoft.com/en-us/users/beyondalgorithm-3574/">Microsoft</a></td>
+
+   </tr> 
 </table>
 
 
