@@ -37,7 +37,7 @@
         <td><a href="https://www.linkedin.com/in/beyondalgorithm">LinkedIn</a></td>
         <td><a href="https://www.goodreads.com/user/show/175363377-beyondalgorithm">GoodReads</a></td>
         <td><a href="https://stackoverflow.com/users/23499680/beyondalgorithm?">StackOverflow</a></td>
-        <td><a href="https://www.quora.com/profile/Nazmus-Sakib-1256">Quora</a></td>
+        <td><a href="https://www.quora.com/profile/BeyondAlgorithm">Quora</a></td>
         <td><a href="https://www.reddit.com/user/BeyondAlgorithm/">Reddit</a></td>
     </tr>
     <tr>
