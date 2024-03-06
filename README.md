@@ -23,6 +23,8 @@
         <td><a href="https://loj.ac/u/BeyondAlgorithm">LibreOj</a></td>
         <td><a href="https://basecamp.eolymp.com/en/users/beyondalgorithm">Eolymp</a></td>
         <td><a href="https://oj.uz/profile/BeyondAlgorithm">oj.uz</a></td>
+        <td><a href="https://www.khanacademy.org/profile/BeyondAlgorithm">Khan Academy</a></td>
+
     </tr>
   
 </table>
