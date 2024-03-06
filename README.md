@@ -41,6 +41,7 @@
     <tr>
      <td><a href="https://learn.microsoft.com/en-us/users/beyondalgorithm-3574/">Microsoft</a></td>
      <td><a href="https://medium.com/@BeyondAlgorithm">Medium</a></td>
+     <td><a href="https://coderanch.com/u/437570/Nazmus-Sakib">Coderanch</a></td>
 
    </tr> 
 </table>
