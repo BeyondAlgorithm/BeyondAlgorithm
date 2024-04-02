@@ -49,4 +49,4 @@
 
 
 ### My Dynamic Scoreboard
-<a href="https://data.typeracer.com/pit/profile?user=beyond_algorithm&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=beyond_algorithm" border="0" alt="TypeRacer.com scorecard for user beyond_algorithm"/></a> <a href=" https://projecteuler.net/profile/BeyondAlgorithm.png" target="_top"><img src="https://projecteuler.net/profile/BeyondAlgorithm.png" border="0" alt="ProjectEuler"/></a>
+<a href="TypeRacer.com scorecard for user beyond_algorithm" target="_top"><img src="https://data.typeracer.com/misc/badge?user=beyond_algorithm" border="0" alt="TypeRacer.com scorecard for user beyond_algorithm"/></a> <a href=" https://projecteuler.net/profile/BeyondAlgorithm.png" target="_top"><img src="https://projecteuler.net/profile/BeyondAlgorithm.png" border="0" alt="ProjectEuler"/></a>
