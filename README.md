@@ -33,7 +33,7 @@
 <table border="1">
   <tr>
         <td><a href="https://www.codeproject.com/Members/BeyondAlgorithm">CodeProject</a></td>
-        <td><a href="https://www.linkedin.com/in/beyondalgorithm">LinkedIn</a></td>
+        <td><a href="https://www.linkedin.com/in/nazmus-sakib-47708b310/">LinkedIn</a></td>
         <td><a href="https://www.goodreads.com/user/show/175363377-beyondalgorithm">GoodReads</a></td>
         <td><a href="https://stackoverflow.com/users/23499680/beyondalgorithm?">StackOverflow</a></td>
         <td><a href="https://www.quora.com/profile/BeyondAlgorithm">Quora</a></td>
